@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghany</h1>
-<h3 align="center">Aspiring ML engineer</h3>
+<h3 align="center">Aspiring AI engineer</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@ghanyfitria](https://medium.com/@ghanyfitria)
 
